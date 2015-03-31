@@ -1,7 +1,11 @@
 /*!
  * FullCalendar v1.6.4 Stylesheet
  * Docs & License: http://arshaw.com/fullcalendar/
+<<<<<<< HEAD
  * (c) 2013 Adam Shaw
+=======
+ * (c) 2013 Adam Shaw Fearuere r
+>>>>>>> e2fdd81a6602dcc260078b70c9b16f7f964e3302
  */
 
 
@@ -667,4 +671,8 @@ table.fc-border-separate {
     .fc-view-agendaWeek .fc-event-vert .img1{position: static;}
     
   }
+<<<<<<< HEAD
 	
+=======
+	
+>>>>>>> e2fdd81a6602dcc260078b70c9b16f7f964e3302
